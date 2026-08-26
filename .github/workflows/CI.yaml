@@ -5,4 +5,4 @@ jobs:
   test:
     runs-on: [self-hosted]
     steps:
-      -run: python --version
+      - run: python --version
