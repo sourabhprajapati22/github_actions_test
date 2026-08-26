@@ -3,7 +3,7 @@ name: Testing Purpose
 on: [push]
 
 jobs:
-  test:
+  test-sdfsdjflkj:
     runs-on: self-hosted
     steps:
       - name: Check Python version
