@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "KARAN",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/TN1L1Znnrq6NrqaICyWGZ7JezPEaPokxAwucP28eZpglqk63wx/",
+  "gitHubUrl": "https://github.com/sourabhprajapati22/github_actions_test",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
