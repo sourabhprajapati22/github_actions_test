@@ -1,0 +1,8 @@
+name: Testing Purpose
+on: [push]
+
+jobs:
+  test:
+    runs-on: [self-hosted]
+    steps:
+      -run: python --version
